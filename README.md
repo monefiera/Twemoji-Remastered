@@ -14,7 +14,9 @@
 
 Magisk v26.0+、KernelSU v0.7.0 以降を対象に作成しています。
 
-## [For English Users](https://github.com/monefiera/Twemoji-Remastered/blob/main/README_EN.md)
-
+## Other Link
+ - [For English Users](https://github.com/monefiera/Twemoji-Remastered/blob/main/README_EN.md)
+ - [ほぼ自分用合成フォント](https://github.com/monefiera/Tarsiger-Sans)も作成しています。[Magiskモジュールももちろん完備](https://github.com/monefiera/Tarsiger-Sans-Prime)。
+ - [連絡はこちらまで](https://misskey.io/@Forsaken_Love02)
 ## 最後に…
 **🍊Twemojiよ、永遠なれ🔥**
