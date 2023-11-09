@@ -14,5 +14,7 @@
 
 Magisk v26.0+、KernelSU v0.7.0 以降を対象に作成しています。
 
+## [For English Users](https://github.com/monefiera/Twemoji-Remastered/blob/main/README_EN.md)
+
 ## 最後に…
 **🍊Twemojiよ、永遠なれ🔥**
