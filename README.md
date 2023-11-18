@@ -6,7 +6,7 @@
 ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/monefiera/Twemoji-Remastered?style=for-the-badge&logo=github)
 
 使用しているデバイスの絵文字をTwemoji([jdeckedチーム](https://github.com/jdecked/twemoji/)が管轄)に置き換える Magisk モジュールです🐦  
-ほとんどの絵文字はjdeckedチームのソース(またはディスカッション)から得ています。
+ほとんどの絵文字はjdeckedチームのソース(またはディスカッション)から得ています。  
 ~~…が、どうしても足りなかったものは雰囲気に合ったフリーイラストで代替しています~~アップデートで完全に脱却しました。  
 このため、**Elon Muskによる新規の絵文字はこのモジュールに含まれていません**(~~消しきれて無ければお知らせください~~)。
 
