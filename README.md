@@ -11,7 +11,7 @@
 このため、**Elon Muskによる新規(かつ雰囲気を無視した~~悪質な~~)絵文字はこのモジュールに含まれていません**(~~消しきれて無ければお知らせください~~)。
 
 ## Latest Download
-[最新版はここに置いています(テストリリース)](https://github.com/monefiera/Twemoji-Remastered/releases/tag/v15.0.3)
+[最新版はここに置いています](https://github.com/monefiera/Twemoji-Remastered/releases/tag/latest)
 
 Magisk v26.0+、KernelSU v0.7.0 以降を対象に作成しています。
 
