@@ -10,7 +10,7 @@ Most of emojis were obtained from her team's sources (or discussions), ~~but tho
 So **new(& mismatch) emojis by Elon Musk are not included** in this module(~~please let us know if they have not been removed~~).
 
 ## Latest Download
-[Here](https://github.com/monefiera/Twemoji-Remastered/releases/tag/v15.0.3)  
+[Here](https://github.com/monefiera/Twemoji-Remastered/releases/latest)  
 This module require Magisk v26.0+, KernelSU v0.7.0, and above as it minimum version.
 
 ## Contact
