@@ -122,10 +122,11 @@ REPLACE="
 # Set what you want to display when installing your module
 
 print_modname() {
-  ui_print "**************************************"
-  ui_print "      Twemoji Remastered v14.0.2     "
-  ui_print "     Maintained by Julien Gontier     "
-  ui_print "**************************************"
+  ui_print "*******************************************"
+  ui_print "        Twemoji Remastered v15.0.2         "
+  ui_print "    Original by Julien Gontier & jdecked   "
+  ui_print "           Modded by MONE FIERA            "
+  ui_print "*******************************************"
 }
 
 # Copy/extract your module files into $MODPATH in on_install.
@@ -141,6 +142,7 @@ on_install() {
   for font in $FONTFILES
   do
     ln -s /system/fonts/NotoColorEmoji.ttf $MODPATH/system/fonts/$font
+    ln -s /system/fonts/NotoColorEmojiFlags.ttf $MODPATH/system/fonts/$font
   done
 }
 
